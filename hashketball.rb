@@ -83,35 +83,36 @@ def game_hash
         :slam_dunks => 10
        },
         {:player_name => "DeSagna Diop",
-        :number =>
-        :shoe => 
-        :points =>
-        :rebounds =>
-        :assists =>
-        :steals =>
-        :blocks =>
+        :number => "2",
+        :shoe => "14",
+        :points => 24,
+        :rebounds =>,
+        :assists =>,
+        :steals =>,
+        :blocks =>,
         :slam_dunks => 
        },
-        {:player_name => 
-        :number =>
-        :shoe => 
-        :points =>
-        :rebounds =>
-        :assists =>
-        :steals =>
-        :blocks =>
+        {:player_name => ,
+        :number =>,
+        :shoe => ,
+        :points =>,
+        :rebounds =>,
+        :assists =>,
+        :steals =>,
+        :blocks =>,
         :slam_dunks => 
        },
-        {:player_name => 
-        :number =>
-        :shoe => 
-        :points =>
-        :rebounds =>
-        :assists =>
-        :steals =>
-        :blocks =>
+        {:player_name => ,
+        :number =>,
+        :shoe => ,
+        :points =>,
+        :rebounds =>,
+        :assists =>,
+        :steals =>,
+        :blocks =>,
         :slam_dunks => 
-       },]
+       }
+       ]
    }
  }
  
