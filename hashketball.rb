@@ -96,21 +96,21 @@ def game_hash
         :number => "8",
         :shoe => 15,
         :points => 33,
-        :rebounds =>,
-        :assists =>,
-        :steals =>,
-        :blocks =>,
-        :slam_dunks => 
+        :rebounds => 3,
+        :assists => 2,
+        :steals => 1,
+        :blocks => 1,
+        :slam_dunks => 0
        },
         {:player_name => "Kemba Walker",
         :number => "33",
         :shoe => 15,
         :points => 6,
-        :rebounds =>,
-        :assists =>,
-        :steals =>,
-        :blocks =>,
-        :slam_dunks => 
+        :rebounds => 12,
+        :assists => 12,
+        :steals => 7,
+        :blocks => 5,
+        :slam_dunks => 12
        }
        ]
    }
